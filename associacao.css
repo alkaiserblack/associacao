@@ -1,0 +1,203 @@
+* {
+    margin:0;
+    padding:0;
+}
+body{
+    text-align: justify;
+    background: #b5de7b;
+}
+
+#geral{
+    text-align: center;
+    width: 1000px;
+    margin: auto auto auto;
+    border: solid 2px #c6c6c6;
+    background: #ffffff;
+
+}
+
+area{
+	text-align: center;
+	background: #ffffff;
+	width: 1000px;
+	height: auto;
+}
+
+fieldset{
+
+    background-color:#e8eae4;
+    padding: 10px;
+}
+
+h2, h3, h4, span{
+    text-align:center;
+    font-family: "trebuchet MS", sans-serif;
+}
+
+#cabecalho{
+    height: 150px;
+    /*background: #ffffff url("./imagens/logo.png") no-repeat;*/
+    text-align:center;
+    font-family: purisa, "Comic Sans MS", "sans serif";
+}
+
+#imgcabecalho{
+    height: 40px;
+    background: #25a738;
+    border-bottom: #c6c6c6 solid 4px;
+    font-family: Arial, Verdana, Tahoma, Serif;
+    text-align: right;
+    padding: 10px 10px;
+    color: #fff;
+    font-size: 11px;
+}
+
+#logout{
+    background: #f2aa00;
+    width: 60px;
+    margin: 30px 10px;
+    text-align:center;
+    float: right;
+    /*font-style: bold;*/
+}
+
+#data{
+    margin: 30px 10px;
+    font-size: 11px;
+}
+
+#lateral{
+    background: #FFFFFF;
+    height: auto;
+    margin: 10px 10px;
+}
+#lateral h3{
+    display: none;
+}
+
+#menu{
+    border: 1px solid gray;
+    height: 32px;
+    text-align: center;
+}
+
+#menu ul li{
+    display: inline;
+}
+#menu ul li a{
+    display: block;
+    float: left;
+    background: #ebf1e2;
+    border-left:solid 2px #acc984;
+    border-bottom:solid 1px #9ac65b;
+    padding:5px;
+    margin: 2px;
+    color: #000000;
+    text-decoration: none;
+}
+#menu ul li a:hover, #menu ul li a:focus{
+    background: #f2aa00;
+    border-left:solid 2px #acc984;
+    border-bottom:solid 1px #9ac65b;
+    padding:5px;
+    text-decoration: underline;
+}
+
+/*#menu ul li.active{
+background: #f2aa00;
+border-left:solid 2px #acc984;
+border-bottom:solid 1px #9ac65b;
+padding:3px 0 3px 10px;
+}
+*/
+
+#formulario{
+    background: white;
+    padding: 10px;
+    height: auto;
+}
+
+#rodape{
+    background: #25a738;
+    height: 50px;
+    width: 1000px;
+    border-top: #72b067 solid 4px;
+    text-align: center;
+}
+
+form{
+    margin: 0 auto;
+    padding: 0px 0px 0px 0px
+}
+
+form label
+{
+    float: left;
+    font-size: 14px;
+    padding: 0 10px 0 10px;
+
+}
+
+form radio
+{
+    width:14em;
+}
+
+
+
+#bt_enviar{
+    float: left;
+}
+.datagrid {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    font-weight:normal;
+    text-align:left;
+}
+.datagrid table {
+    
+    border:1px solid #6299A7;
+    width: 100%;
+    background: #e8eae4;
+}
+.datagrid table caption {
+    font-size: 14px;
+    font-weight:bold;
+}
+.datagrid table tr th{
+    background: #82A2C1;
+    padding: 2px;
+    margin: 1px;
+    height: 20px;
+    color:#FFF;
+}
+.datagrid table tr td{
+    background: #FFFFFF;
+    margin: 1px;
+}
+.datagrid table tr.zebra{
+    background:#EAEAEA;
+}
+
+.datagrid table tr{
+    background-color:#FF9900;
+}
+.datagrid table tr td a{
+    color: #333333;
+    border:none;
+    text-decoration:underline;
+    float:left;
+}
+.datagrid table tr td a.link{
+    color: #006699;
+    float:left;
+}
+.textfield {
+    border: 1px solid #c6c6c6;
+    padding: 2px;
+
+}
+.datagrid label {
+    font-size: 12px;
+    font-
+}

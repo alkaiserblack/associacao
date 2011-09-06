@@ -1,0 +1,9 @@
+<option value="1">Pai ou mãe</option>
+<option value="2">Filho ou filha</option>
+<option value="3">Avô ou avó</option>
+<option value="4">Tio ou tia</option>
+<option value="5">Sobrinho ou sobrinha</option>
+<option value="6">Afilhado ou afilhada</option>
+<option value="7">Neto ou neta</option>
+<option value="8">Irmão ou irmã</option>
+<option value="9">Outros</option>
